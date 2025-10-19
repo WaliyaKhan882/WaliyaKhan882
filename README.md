@@ -46,13 +46,13 @@ We specialize in **process automation**, **AI integrations**, and **custom web p
 - 🐍 [**Python Practice Programs**](https://github.com/WaliyaKhan882/Python)  
   _Beginner to intermediate programs focusing on Python logic._
 
-- ☕ [**Java DSA Concepts**](https://github.com/WaliyaKhan882/Java)  
+- ☕ [**Java Concepts**](https://github.com/WaliyaKhan882/Java)  
   _Java Practice Questions._
 
 - 💻 [**C Language Essentials**](https://github.com/WaliyaKhan882/C-Language-IBIT)  
   _Core C programming exercises used for mentoring and teaching fundamentals._
 
-- 📘 [**Programming Tutorials**](https://github.com/WaliyaKhan882/DSA)  
+- 📘 [**DSA Concepts**](https://github.com/WaliyaKhan882/DSA)  
   _Short, well-documented code snippets for Data Structures & Algorithms._
 
 ---
