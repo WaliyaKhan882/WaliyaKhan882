@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Waliya Khan**
 
-> *“Turning ideas into automated realities.”*
+> *"Turning ideas into automated realities."*
 
 ---
 
@@ -19,7 +19,7 @@ I love solving real-world problems using technology, focusing on **AI-driven sol
 
 ---
 
-## 🚀 My Startup — [DonDev](https://dondev.live/))
+## 🚀 My Startup — [DonDev](https://dondev.live/)
 > **Tagline:** *Gateway to Automation*  
 At **DonDev**, we develop intelligent automation systems and digital solutions to help businesses save time and operate efficiently.  
 We specialize in **process automation**, **AI integrations**, and **custom web platforms**.
@@ -35,6 +35,8 @@ We specialize in **process automation**, **AI integrations**, and **custom web p
 - 💾 MongoDB / SQLite (Databases)
 - 🧠 OpenCV + cvzone (Gesture Recognition)
 - 🪄 WordPress (Custom & eCommerce Sites)
+- 🤖 LLM Integration (GROQ, OpenAI)
+- 🎨 Gradio (ML/AI Application UI)
 
 ---
 
@@ -69,6 +71,7 @@ We specialize in **process automation**, **AI integrations**, and **custom web p
 - [x] Launch my automation startup — (✅ *DonDev: Gateway to Automation*)  
 - [x] Develop intelligent business automation systems for real clients  
 - [x] Build AI-driven automation projects integrating Make.com, OpenAI & APIs  
+- [x] Deploy production AI chatbot using GROQ + Gradio on Hugging Face
 - [ ] Contribute to educational open-source repositories  
 - [ ] Publish technical tutorials on AI & automation for learners  
 - [ ] Mentor aspiring developers in Python, Django, and Automation  
@@ -90,6 +93,7 @@ We specialize in **process automation**, **AI integrations**, and **custom web p
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| **[DonDev AI Chatbot](https://github.com/WaliyaKhan882/Dondev-Chatbot)** • [🚀 Live](https://huggingface.co/spaces/WaliyaKhan882/Dondev) | Intelligent sales-focused chatbot representing DonDev's automation services with multi-model selection (Llama 3.3 70B, Llama 3.1, Mixtral), temperature control, and comprehensive knowledge base. | Python, Gradio, GROQ API, Llama LLMs |
 | **SocioGPT (FYP)** | Automated AI-based content generation and posting tool integrated with Gemini, Json2Video, and Make.com for multi-platform publishing. | Python, Make.com, OpenAI, Json2Video |
 | **AI Content-to-Video Automation System** | Automated pipeline to convert trending topics into videos using Perplexity AI, Make.com, and APIs for posting. | Make.com, APIs, AI |
 | **HermesLines Workflow Automation** | Automated end-to-end business operations (sales, finance, logistics) with Stripe and ShipStation integrations. | Make.com, Monday.com, Stripe |
@@ -101,11 +105,12 @@ We specialize in **process automation**, **AI integrations**, and **custom web p
 
 ## ✨ Contact Me
 
-- 📧 **Email:** [waliyashahkhan@gmail.com](mailto:waliyashahkhan.com)  
+- 📧 **Email:** [waliyashahkhan@gmail.com](mailto:waliyashahkhan@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/waliyakhan](https://linkedin.com/in/waliyakhan)  
 - 🌐 **Portfolio:** [dondev.live](https://dondev.live)  
 - 🐙 **GitHub:** [github.com/WaliyaKhan882](https://github.com/WaliyaKhan882)
+- 🤗 **Hugging Face:** [huggingface.co/WaliyaKhan882](https://huggingface.co/WaliyaKhan882)
 
 ---
 
-⭐ *Thanks for visiting! Feel free to connect, collaborate, or explore my work on automation and AI.*  
+⭐ *Thanks for visiting! Feel free to connect, collaborate, or explore my work on automation and AI.*
