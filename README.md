@@ -1,4 +1,4 @@
-![Waliya Khan, AI Automation Engineer](https://github.com/WaliyaKhan882/WaliyaKhan882/blob/main/banner.png?raw=true)
+![Waliya Khan: AI automation, causal inference research and teaching](banner.png)
 
 # Hi, I'm Waliya Khan
 
@@ -14,7 +14,7 @@ Most of my work comes back to one question: **what actually causes the outcome w
 |---|---|
 | **Building** | CEO at [DonDev](https://www.dondev.tech/), an automation agency. We design workflow, voice, CRM, booking and payment systems for clients in the US, UK and Pakistan. I'm also Top Rated on Upwork. |
 | **Researching** | MPhil in Data Science, University of the Punjab (CGPA 4.00). My thesis compares regression with causal inference for heart failure patients, using echocardiogram outcomes and treating procedures and medications as interventions. |
-| **Teaching** | Teaching assistant for Big Data Analytics: I run labs, set and mark quizzes, and help keep the course in step with industry tools. |
+| **Teaching** | Teaching assistant for Big Data Analytics in my MPhil: I run labs, set and mark quizzes, and help keep the course in step with industry tools. During my bachelor's I was a teaching assistant for Programming Fundamentals, Object Oriented Programming and Introduction to Databases. |
 
 Before this, I graduated with a **University Gold Medal** in Business and Information Technology (CGPA 3.99) from the same university.
 
