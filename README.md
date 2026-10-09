@@ -14,7 +14,7 @@ Most of my work comes back to one question: **what actually causes the outcome w
 |---|---|
 | **Building** | CEO at [DonDev](https://www.dondev.tech/), an automation agency. We design workflow, voice, CRM, booking and payment systems for clients in the US, UK and Pakistan. I'm also Top Rated on Upwork. |
 | **Researching** | MPhil in Data Science, University of the Punjab (CGPA 4.00). My thesis compares regression with causal inference for heart failure patients, using echocardiogram outcomes and treating procedures and medications as interventions. |
-| **Teaching** | Teaching assistant for Big Data Analytics in my MPhil: I run labs, set and mark quizzes, and help keep the course in step with industry tools. During my bachelor's I was a teaching assistant for Programming Fundamentals, Object Oriented Programming and Introduction to Databases. |
+| **Teaching** | Teaching assistant for Big Data Analytics in my MPhil: I run labs on MySQL, Cassandra, Neo4j and Redis, set and mark quizzes, and help keep the course in step with industry tools. During my bachelor's I was a teaching assistant for Programming Fundamentals, Object Oriented Programming and Introduction to Databases. |
 
 Before this, I graduated with a **University Gold Medal** in Business and Information Technology (CGPA 3.99) from the same university.
 
@@ -57,7 +57,7 @@ Before this, I graduated with a **University Gold Medal** in Business and Inform
 
 **Automation:** n8n, Make.com, Zapier, Google Apps Script, Vapi, Retell AI, ElevenLabs, Selenium, REST APIs, webhooks
 
-**Data:** MySQL, SQLite, MongoDB, Cassandra, Neo4j, Redis, vector databases
+**Data:** MySQL, SQLite, MongoDB, Cassandra, Neo4j, Redis, Kafka, MinIO, vector databases
 
 **Languages:** Python, C, C++, Java, JavaScript, PHP
 
