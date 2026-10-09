@@ -1,116 +1,81 @@
-![AI Automation Engineer](https://github.com/WaliyaKhan882/WaliyaKhan882/blob/main/banner.png?raw=true)
+![Waliya Khan, AI Automation Engineer](https://github.com/WaliyaKhan882/WaliyaKhan882/blob/main/banner.png?raw=true)
 
-# 👋 Hey there, I'm **Waliya Khan**
+# Hi, I'm Waliya Khan
 
-> *"Turning ideas into automated realities."*
+I build AI and automation systems for real businesses, research causal inference for healthcare, and help teach data science at the University of the Punjab in Lahore.
 
----
-
-## 🧭 About Me
-
-**Full Name:** Waliya Khan  
-**University:** Institute of Business & Information Technology (IBIT), University of the Punjab  
-**Department:** Business & Information Technology (BBIT)
-
-I'm an **IT major** passionate about **Process Automation** and **AI Integration**.  
-I love solving real-world problems using technology, focusing on **AI-driven solutions** and integrating them to automate business operations.  
-
-💡 *Currently building systems that make work smarter, faster, and automated.*
+Most of my work comes back to one question: **what actually causes the outcome we care about?** In client work that means finding the manual step that slows a team down. In research it means separating real treatment effects from correlation in clinical data.
 
 ---
 
-## 🚀 My Startup — [DonDev](https://dondev.live/)
-> **Tagline:** *Gateway to Automation*  
-At **DonDev**, we develop intelligent automation systems and digital solutions to help businesses save time and operate efficiently.  
-We specialize in **process automation**, **AI integrations**, and **custom web platforms**.
+## What I'm doing now
+
+| | |
+|---|---|
+| **Building** | CEO at [DonDev](https://www.dondev.tech/), an automation agency. We design workflow, voice, CRM, booking and payment systems for clients in the US, UK and Pakistan. I'm also Top Rated on Upwork. |
+| **Researching** | MPhil in Data Science, University of the Punjab (CGPA 4.00). My thesis compares regression with causal inference for heart failure patients, using echocardiogram outcomes and treating procedures and medications as interventions. |
+| **Teaching** | Teaching assistant for Big Data Analytics: I run labs, set and mark quizzes, and help keep the course in step with industry tools. |
+
+Before this, I graduated with a **University Gold Medal** in Business and Information Technology (CGPA 3.99) from the same university.
 
 ---
 
-## 🛠️ Skills
+## Selected work
 
-- 🐍 Python (Automation & AI)
-- 🌐 Django + React.js (Full-Stack Development)
-- ⚙️ Make.com / Zapier / n8n (Workflow Automation)
-- 🖥️ Selenium (Bot Development)
-- 💾 MongoDB / SQLite (Databases)
-- 🧠 OpenCV + cvzone (Gesture Recognition)
-- 🪄 WordPress (Custom & eCommerce Sites)
-- 🤖 LLM Integration (GROQ, OpenAI)
-- 🎨 Gradio (ML/AI Application UI)
+### AI and data science
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [Self-Reflective Fact-Checking Agent](https://huggingface.co/spaces/WaliyaKhan882/Self-Reflective-Fact-Checking-Agent) | A drafter answers a question, an extractor pulls out its claims, an auditor checks each claim against web search, and an editor rewrites a corrected answer with a visible audit trail. | LangGraph, Groq, DuckDuckGo, Gradio |
+| [Web-Grounded Multimodal Assistant, v1 to v5](https://huggingface.co/WaliyaKhan882) | Five versions, each adding one capability: answers from scraped web pages, then YouTube transcripts, voice in and audio out, and image generation. | Hugging Face Spaces, Gradio, RAG |
+| [AI and Data Science Salary Predictor](https://github.com/WaliyaKhan882/AI-Data-Science-Salary-Predictor) | EDA, preprocessing and a comparison of six regression models on AI/ML salaries across 10 countries, served through a Streamlit app. | Python, scikit-learn, Streamlit |
+| [RAG PDF Chatbot](https://huggingface.co/spaces/WaliyaKhan882/RAG_CHATBOT) | Answers questions from uploaded PDFs using retrieval-augmented generation. | Python, Gradio, RAG |
+| [DonDev Chatbot](https://github.com/WaliyaKhan882/Dondev-Chatbot) ([live](https://huggingface.co/spaces/WaliyaKhan882/Dondev_Chatbot)) | A sales assistant grounded in DonDev's service information, with a choice of Llama and Mixtral models. | Python, Gradio, Groq |
 
-## 🧠 Teaching & Learning Repositories  
+### Client automation systems
 
-> As an aspiring **professor and mentor**, I enjoy sharing my coding journey and helping others learn programming fundamentals.  
-> These repositories reflect my passion for teaching and logical problem solving.
-
-- 🐍 [**Python Practice Programs**](https://github.com/WaliyaKhan882/Python)  
-  _Beginner to intermediate programs focusing on Python logic._
-
-- ☕ [**Java Concepts**](https://github.com/WaliyaKhan882/Java)  
-  _Java Practice Questions._
-
-- 💻 [**C Language Essentials**](https://github.com/WaliyaKhan882/C-Language-IBIT)  
-  _Core C programming exercises used for mentoring and teaching fundamentals._
-
-- 📘 [**DSA Concepts**](https://github.com/WaliyaKhan882/DSA)  
-  _Short, well-documented code snippets for Data Structures & Algorithms._
+| Client | What I built | Stack |
+|---|---|---|
+| DiamondHoofCare | Order processing, inventory, deal creation and invoicing, cutting manual task effort by about 95%. | Make.com, Google Apps Script, ClickUp, Trellinator |
+| Reese Villa (US) | End-to-end operations for a personal chef and villa events business: booking, proposals, client messaging, AI-assisted menus and team scheduling. | Make.com, Twilio, Trello, OpenAI |
+| HermesLines | Sales, billing, subscriptions and fulfillment connected across payment, project and shipping tools. | Stripe, Monday.com, ShipStation |
+| Legal intake | An AI voice agent that answers inbound legal enquiries around the clock. | n8n, Vapi |
+| SocioGPT | Turns a short prompt into social media posts with images or video, with a human approval step before publishing. | Make.com, Gemini, Json2Video |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## Research
 
-![Waliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliyaKhan882&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaliyaKhan882&layout=compact&theme=radical)
-
----
-
-## 🎯 Goals & Checklist
-
-- [x] Launch my automation startup — (✅ *DonDev: Gateway to Automation*)  
-- [x] Develop intelligent business automation systems for real clients  
-- [x] Build AI-driven automation projects integrating Make.com, OpenAI & APIs  
-- [x] Deploy production AI chatbot using GROQ + Gradio on Hugging Face
-- [ ] Contribute to educational open-source repositories  
-- [ ] Publish technical tutorials on AI & automation for learners  
-- [ ] Mentor aspiring developers in Python, Django, and Automation  
-- [ ] Transition into academia as a **Professor & Research Mentor**  
-- [ ] Develop a SaaS-based automation management platform  
+- **W. Khan**, W. Munir, F. Bukhari and T. Butt, "Effect of Wearable-Based Automated Interventions on Stress Reduction using Machine Learning," *IEEE iCoMET 2026*, Sukkur, Pakistan. [DOI: 10.1109/iCoMET69771.2026.11591768](https://doi.org/10.1109/iCoMET69771.2026.11591768)
+- **MPhil thesis (in progress):** regression versus causal inference on real-world cardiology records, co-supervised with a US healthcare industry expert.
 
 ---
 
-## 💬 Motto
+## Tools I work with
 
-> *"Automate the boring, innovate the future."*
+**Data science and AI:** Python, pandas, scikit-learn, regression, causal DAGs, RAG, LangGraph, Groq, OpenAI, Gemini, Hugging Face, Gradio, Streamlit
 
----
+**Automation:** n8n, Make.com, Zapier, Google Apps Script, Vapi, Retell AI, ElevenLabs, Selenium, REST APIs, webhooks
 
-## 📚 Projects Overview  
+**Data:** MySQL, SQLite, MongoDB, Cassandra, Neo4j, Redis, vector databases
 
-> I love simplifying complex concepts through hands-on projects and automation solutions.  
-> My public repositories are focused on learning, teaching, and demonstrating logic building in programming.
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **[DonDev AI Chatbot](https://github.com/WaliyaKhan882/Dondev-Chatbot)** • [🚀 Live](https://huggingface.co/spaces/WaliyaKhan882/Dondev) | Intelligent sales-focused chatbot representing DonDev's automation services with multi-model selection (Llama 3.3 70B, Llama 3.1, Mixtral), temperature control, and comprehensive knowledge base. | Python, Gradio, GROQ API, Llama LLMs |
-| **SocioGPT (FYP)** | Automated AI-based content generation and posting tool integrated with Gemini, Json2Video, and Make.com for multi-platform publishing. | Python, Make.com, OpenAI, Json2Video |
-| **AI Content-to-Video Automation System** | Automated pipeline to convert trending topics into videos using Perplexity AI, Make.com, and APIs for posting. | Make.com, APIs, AI |
-| **HermesLines Workflow Automation** | Automated end-to-end business operations (sales, finance, logistics) with Stripe and ShipStation integrations. | Make.com, Monday.com, Stripe |
-| **Diamond Hoof Care Automation** | Achieved 95% manual reduction by automating order and inventory processes. | Integromat, Trellinator, ClickUp, Google Apps Script |
-| **Automated BLS Appointment Bot** | Selenium-based Python bot for booking BLS Italy appointments automatically. | Python, Selenium |
-| **Manzi.shop (E-Commerce)** | Designed and developed a complete WooCommerce-based fashion eCommerce store. | WordPress, WooCommerce, Elementor Pro |
+**Languages:** Python, C, C++, Java, JavaScript, PHP
 
 ---
 
-## ✨ Contact Me
+## Learning and teaching repositories
 
-- 📧 **Email:** [waliyashahkhan@gmail.com](mailto:waliyashahkhan@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/waliyakhan](https://linkedin.com/in/waliyakhan)  
-- 🌐 **Portfolio:** [dondev.live](https://dondev.live)  
-- 🐙 **GitHub:** [github.com/WaliyaKhan882](https://github.com/WaliyaKhan882)
-- 🤗 **Hugging Face:** [huggingface.co/WaliyaKhan882](https://huggingface.co/WaliyaKhan882)
+Practice code I wrote while learning, and now use when helping students with the fundamentals:
+[Python](https://github.com/WaliyaKhan882/Python) · [Java](https://github.com/WaliyaKhan882/Java) · [C Language](https://github.com/WaliyaKhan882/C-language-IBIT) · [Data Structures and Algorithms](https://github.com/WaliyaKhan882/DSA)
 
 ---
 
-⭐ *Thanks for visiting! Feel free to connect, collaborate, or explore my work on automation and AI.*
+## Where I'm heading
+
+I want to do a PhD in causal inference for healthcare decision making, while continuing to build practical AI systems through DonDev.
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/waliyakhan) · [Hugging Face](https://huggingface.co/WaliyaKhan882) · [DonDev](https://www.dondev.tech/) · [waliyashahkhan@gmail.com](mailto:waliyashahkhan@gmail.com)
